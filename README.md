@@ -2,7 +2,7 @@
 
 A quick start Vue project that shows how to add annotations to nodes and connectors in the Syncfusion [Vue Diagram](https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-diagram-annotations-sample) component. This project includes code snippets to add an annotation programmatically and showing customization options like horizontal alignment, vertical alignment, offset, text wrapping, and font styles. It includes code snippets for interacting with annotations and adding hyperlinks to them.
 
-Watch the video: Coming soon…
+Watch the video: https://www.syncfusion.com/tutorial-videos/vue/diagram?title=how-to-add-and-customize-annotations-in-nodes-and-connectors 
 
 Refer to the following documentation to learn about the Vue Diagram component: https://ej2.syncfusion.com/vue/documentation/diagram/labels
 
